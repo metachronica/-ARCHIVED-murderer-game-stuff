@@ -1,0 +1,40 @@
+Tool;Tracking affects avoid(TLA);Tool cost(TLC);Decrease tracking(TD)
+;;;
+Simple Gloves;Fingerprints;10;1
+Simple CleanUp toolset;Blood spots, Footprints;30;2
+Knife sharpener;Blood spots;15;3
+Advanced CleanUp toolset;Blood spots, Footprints, Fingerprints;50;4
+Leather Gloves;Fingerprints;70;5
+Professional Murder Gloves;Fingerprints;150;6
+Ultimate CleanUp toolset;Blood spots, Footprints, Murder weapon track, Fingerprints;200;7
+Murder Today Magazine: Howto - Hide weapon;Murder weapon track;350;8
+Murder Today Exclusive: MessUp the victim body;Murder weapon track;450;9
+Be the Murder for Real: Hiding body - 1000 tips;Murder weapon track, Blood spots, Fingerprints, Footprints;900;10
+Fake ID;Witnesses, Grandma killer;1500;11
+Simple women tights;Witnesses;2000;12
+Branded women tights;Witnesses;2500;13
+Exclusive beautiful leggings;Witnesses;4000;14
+Special face mask;Witnesses, Grandma killer;6000;15
+Professional murder face mask;Witnesses, Grandma killer;9000;16
+Handmade bullets for Pistol;Ballistic track;12000;17
+Handmade bullets for Uzi;Ballistic track;15000;18
+Suppressor(Silent) for Pistol;Ballistic track, Witnesses;20000;19
+Suppressor(Silent) for Uzi;Ballistic track, Witnesses;25000;20
+Fake psycho diagnosis;Psycho;30000;21
+Donation to Health care fond;Extremism;35000;22
+Munchausen syndrome diagnosis;Psycho, Extremism;40000;23
+Donation to International humanity foundation;Extremism, Terrorism, Most Wanted;50000;24
+Psy.D. Clinical psychology License;Psycho, Extremism, Terrorism, Most Wanted;90000;25
+Open Global Health Care Fund;Extremism, Terrorism, Most Wanted, Psycho;200000;26
+Chemical fabric license;Chemical track;300000;27
+Fake life history;Friendly track;500000;28
+Botanical garden association authority;Botanical track;700000;29
+Plastic surgery: Skin color change;National track, Friendly track;1000000;30
+New Body Clinic: Brain transplantation;Victim track, Friendly track, National track, Professional track, Chemical track;3000000;31
+The 12 steps of AA complete;Alcohol track, Friendly track, Vitim track, National track, Professional track, Chemical track;5000000;32
+Secret Laboratory Intern fake ID;Laboratory track, Medical track;7000000;33
+Authorised private experimentator License;Laboratory track, Science track, Tesla track;10000000;34
+USA citizenship;Nuclear track;30000000;35
+Fake alien adoption;Alien track, Human track;50000000;36
+Fake FBI ID;Science track, Alien track, Human track, Laboratory track;80000000;37
+FBI ID;Science track, Alien track, Human track, Laboratory track, Tesla track, Medical track, Nuclear track;100000000;38

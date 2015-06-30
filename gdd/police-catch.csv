@@ -1,0 +1,26 @@
+Tracking;Tracking time decrease(TTD);Tracking speed(TRS);Weapon;Tools
+Footprints;10;2;Kick;Simple CleanUp toolset,  Advanced CleanUp toolset, Ultimate CleanUp toolset
+Fingerprints;20;3;Brass knuckles, Baseball Bat, Knife, Axe, Chainsaw, Pistol, Uzi;Simple Gloves, Simple CleanUp toolset, Advanced CleanUp toolset, Leather Gloves, Professional Murder Gloves, Ultimate CleanUp toolset, Be the Murder for Real: Hiding body - 1000 tips
+Blood spots;30;4;Kick, Brass knuckles, Baseball Bat, Knife, Axe, Chainsaw, Pistol, Uzi;Simple CleanUp toolset, Knife sharpener, Advanced CleanUp toolset, Ultimate CleanUp toolset, Be the Murder for Real: Hiding body - 1000 tips
+Murder weapon track;40;5;Baseball Bat, Knife, Axe, Chainsaw, Pistol, Uzi, Sawed-off shotgun;Murder Today Magazine: Howto - Hide weapon, Murder Today Exclusive: MessUp the victim body, Be the Murder for Real: Hiding body - 1000 tips
+Grandma killer;50;6;Axe;Fake ID, Special face mask, Professional murder face mask
+Witnesses;60;7;Chainsaw, Pistol, Uzi, Sawed-off shotgun, AK-47, RPG;Fake ID, Simple women tights, Branded women tights, Exclusive beautiful leggings, Special face mask, Professional murder face mask, Suppressor(Silent) for Pistol, Suppressor(Silent) for Uzi
+Ballistic track;70;8;Pistol, Uzi;Handmade bullets for Pistol, Handmade bullets for Uzi, Suppressor(Silent) for Pistol, Suppressor(Silent) for Uzi
+Psycho;80;9;Sawed-off shotgun, AK-47, RPG;Fake psycho diagnosis, Munchausen syndrome diagnosis, Psy.D. Clinical psychology License, Open Global Health Care Fund
+Extremism;90;10;Sawed-off shotgun, RPG;Donation to Health care fond, Munchausen syndrome diagnosis, Donation to International humanity foundation, Psy.D. Clinical psychology License, Open Global Health Care Fund
+Most Wanted;100;11;AK-47, RPG;Donation to International humanity foundation, Psy.D. Clinical psychology License, Open Global Health Care Fund
+Terrorism;110;12;AK-47, RPG;Donation to International humanity foundation, Psy.D. Clinical psychology License, Open Global Health Care Fund
+Chemical track;120;13;Arsenic, Сyanide;Chemical fabric license, New Body Clinic: Brain transplantation, The 12 steps of AA complete
+Friendly track;130;14;Arsenic, Сyanide, Methanol;Fake life history, Plastic surgery: Skin color change, New Body Clinic: Brain transplantation, The 12 steps of AA complete
+Victim track;140;15;Curare, Сyanide, Methanol;New Body Clinic: Brain transplantation, The 12 steps of AA complete
+Botanical track;150;16;Curare;Botanical garden association authority
+National track;160;17;Curare, Methanol;Plastic surgery: Skin color change, New Body Clinic: Brain transplantation, The 12 steps of AA complete
+Alcohol track;170;18;Methanol;The 12 steps of AA complete
+Professional track;180;19;Сyanide, Methanol;New Body Clinic: Brain transplantation, The 12 steps of AA complete
+Laboratory track;190;20;Virus, Death ray, Nuclear bomb;Secret Laboratory Intern fake ID, Authorised private experimentator License, USA citizenship, Fake FBI ID, FBI ID
+Medical track;200;21;Virus;Secret Laboratory Intern fake ID, FBI ID
+Science track;210;22;Death ray, Nuclear bomb, Alien invasion;Authorised private experimentator License, Fake FBI ID, FBI ID
+Tesla track;220;23;Death ray;Authorised private experimentator License, FBI ID
+Nuclear track;230;24;Nuclear bomb;USA citizenship, FBI ID
+Human track;240;25;Alien invasion;Fake alien adoption, Fake FBI ID, FBI ID
+Alien track;250;26;Alien invasion;Fake alien adoption, Fake FBI ID, FBI ID

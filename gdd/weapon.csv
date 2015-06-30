@@ -1,0 +1,24 @@
+Weapon;Weapon powerful(WP);Weapon cost(WC);Tracking affects(WTA);Description
+Melee weapon;;;;
+Kick;110;0;Blood spots, Footprints;
+Brass knuckles;100;50;Blood spots, Fingerprints;
+Baseball Bat;90;100;Blood spots, Fingerprints, Murder weapon track;
+Knife;85;150;Blood spots, Fingerprints, Murder weapon track;
+Axe;80;200;Blood spots, Fingerprints, Murder weapon track, Grandma killer;
+Chainsaw;75;250;Blood spots, Fingerprints, Murder weapon track, Witnesses, Psycho;
+Firearm weapon;;;;
+Pistol;60;500;Blood spots, Fingerprints, Ballistic track, Witnesses;
+Uzi;55;1000;Blood spots, Fingerprints, Ballistic track, Witnesses;
+Sawed-off shotgun;50;2000;Murder weapon track, Witnesses, Psycho, Extremism;
+AK-47;45;4000;Witnesses, Most Wanted, Psycho, Terrorism;
+RPG;40;8000;Witnesses, Most Wanted, Psycho, Extremism, Terrorism;
+Poison weapon;;;;
+Arsenic;35;16000;Chemical track, Friendly track;
+Curare;30;32000;Botanical track, Victim track, National track;
+Сyanide;25;64000;Chemical track, Friendly track, Victim track, Professional track;
+Methanol;20;128000;Alcohol track, Friendly track, Vitim track, National track, Professional track;
+Massive weapon;;;;
+Virus;10;350000;Laboratory track, Medical track;
+Death ray;7;700000;Laboratory track, Science track, Tesla track;
+Nuclear bomb;4;3000000;Laboratory track, Science track, Nuclear track;
+Alien invasion;2;10000000;Science track, Alien track, Human track;
