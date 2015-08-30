@@ -1,8 +1,8 @@
-<svg id="svg4790" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="1080" viewBox="0 0 1920 1080" width="1920" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<svg id="svg4790" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <text id="loading-text" y="731.8537" x="1616.1422" style="letter-spacing:0px;font-size:70px;word-spacing:0px;font-family:sans-serif;line-height:125%;fill:#333333" xml:space="preserve"><tspan id="tspan3367" y="731.8537" x="1616.1422" style="font-size:70px;font-family:&apos;Old Standard TT&apos;;fill:#333333">Loading</tspan></text>
 <rect id="main-bar" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#333" transform="scale(-1)" height="5" width="1400" y="-774.39" x="-1918.7"/>
 <rect id="blood-bar" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#f00" transform="scale(-1)" height="5" width="50.952" y="-774.39" x="-569.68"/>
-<g id="bloody-hand" transform="matrix(.99829 0 0 .99757 -.20879 1.9528)">
+<g id="bloody-hand" transform="matrix(.99829 0 0 .99757 -.20879 1.9535)">
 <path id="hand" style="fill:#fff" d="m440.98 52.174 33.97 73.224 45.812 8.0845 16.415 56.629-42.501 57.47c0.64077 36.215 5.3072 115.07 39.66 98.067 19.49 41.184 20.949 170.28 24.707 213.43 0.88184 44.675-7.6629 159.36-34.193 161.54l-22.62-127.49c-7.8158-34.599-17.435-92.021-23.393-131.83l-25.88-182.63-16.59-6.66-52.64 50.17-383.52 451.75v-302.7l300.17-210.78 76.5-51.55 48.88-50.21-1.88-100.98z"/>
 <g id="blood" transform="matrix(4.6796,0,0,3.8853,-4290.5,-1048.1)">
 <path id="drop" style="fill:#f00;fill-rule:evenodd" d="m1028.8 459.61s-2.6477 6.3369-0.037 5.991c2.611-0.34593 0.037-5.991 0.037-5.991z"/>
